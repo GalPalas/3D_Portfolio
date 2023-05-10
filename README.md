@@ -18,11 +18,11 @@ To build this site, I used the following technologies:
 ### Installation
 To run this project on your local machine, please follow these steps:
 
-- Clone the repository: git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
-- Navigate to the project directory: cd YOUR-REPOSITORY.
+- Clone the repository: git clone https://github.com/GalPalas/3D_Portfolio.git.
+- Navigate to the project directory: cd 3D_Portfolio.
 - Install the dependencies: npm install.
 - Start the development server: npm run dev.
-- Open your web browser and navigate to http://localhost:3000.
+- Open your web browser and navigate to http://localhost:5173.
 
 ### Contributing
 If you would like to contribute to this project, please open a pull request or issue and I will be happy to review it.
