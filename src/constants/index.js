@@ -18,6 +18,7 @@ import {
   gamehub,
   netflix,
   pizza,
+  airbnb,
   threejs,
 } from "../assets";
 
@@ -29,6 +30,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Work",
+  },
+  {
+    id: "projects",
+    title: "projects",
   },
   {
     id: "contact",
@@ -162,6 +167,33 @@ const projects = [
     image: gamehub,
     source_code_link: "https://github.com/GalPalas/game-hub",
     website_link: "https://game-hub-nine-rho.vercel.app/",
+  },
+  {
+    name: "Airbnb",
+    description:
+      "Web-based platform for vacation rentals inspired by the popular vacation rental service, Airbnb. Our platform is designed to provide users with a seamless and personalized experience, allowing them to search for and book vacation rentals from around the world,the site also offers users can easily search for properties by location, dates, and budget.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "gray-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "very-blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: airbnb,
+    source_code_link: "https://github.com/GalPalas/Airbnb",
+    website_link: "https://galpalas-airbnb.vercel.app/",
   },
   {
     name: "Netflix",

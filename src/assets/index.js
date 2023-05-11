@@ -28,8 +28,7 @@ import elbit from "./company/elbit.png";
 import gamehub from "./game-hub.jpg";
 import netflix from "./netflix.png";
 import pizza from "./pizza-planet.jpeg";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import airbnb from "./airbnb.jpg";
 
 export {
   logo,
@@ -59,6 +58,5 @@ export {
   gamehub,
   netflix,
   pizza,
-  jobit,
-  tripguide,
+  airbnb,
 };
